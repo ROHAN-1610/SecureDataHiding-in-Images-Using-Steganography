@@ -92,7 +92,7 @@ pip install PyQt6 opencv-python numpy
 
 ---
 
-## 🏰️ Contributing  
+## 🏠️ Contributing  
 Want to contribute? Follow these steps:  
 
 1. **Fork the repository** on GitHub.  
@@ -115,13 +115,13 @@ Want to contribute? Follow these steps:
 ## 🖼️ Screenshots  
 
 ✅ **Main Application GUI**  
-![App Screenshot](C:/Users/ROHAN%20VERMA/OneDrive/Pictures/Screenshots/Screenshot%20(32).png)  
+![App Screenshot](file:///C:/Users/ROHAN%20VERMA/OneDrive/Pictures/Screenshots/Screenshot%20(32).png)  
 
 ✅ **Hiding a Message in an Image**  
-![Hiding Data](C:/Users/ROHAN%20VERMA/OneDrive/Pictures/Screenshots/Screenshot%20(33).png)  
+![Hiding Data](file:///C:/Users/ROHAN%20VERMA/OneDrive/Pictures/Screenshots/Screenshot%20(33).png)  
 
 ✅ **Extracting a Hidden Message**  
-![Extracting Data](C:/Users/ROHAN%20VERMA/OneDrive/Pictures/Screenshots/Screenshot%20(33).png)  
+![Extracting Data](file:///C:/Users/ROHAN%20VERMA/OneDrive/Pictures/Screenshots/Screenshot%20(33).png)  
 
 ---
 
@@ -141,7 +141,7 @@ You are free to use, modify, and distribute it.
 
 ## 📩 Contact    
 🌐 **GitHub:** [ROHAN-1610](https://github.com/ROHAN-1610)  
-📌 **LinkedIn:** [Rohan Verma](https://linkedin.com/in/rohan-verma)  
+📌 **LinkedIn:** [Rohan Verma](https://www.linkedin.com/in/rohan011aab253)  
 
 ---
 
