@@ -29,26 +29,20 @@ git clone https://github.com/ROHAN-1610/SecureDataHiding-in-Images-Using-Stegano
 cd SecureDataHiding-in-Images-Using-Steganography
 
 ### **2️⃣ Create and Activate a Virtual Environment**
-```sh
 python -m venv .venv
 .venv\Scripts\activate
 
  ### **3️⃣ Install Dependencies**
 Install all required Python packages:
-
-```sh
 pip install -r requirements.txt
 
 If you don’t have a requirements.txt, install them manually:
-
-```sh
 pip install PyQt6 opencv-python numpy
 
 ### **🎮 Usage**
 **Run the Application**
-To launch the GUI:
 
-```sh
+To launch the GUI:
 python stego_gui.py
 
 ---
